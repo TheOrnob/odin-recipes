@@ -1,0 +1,21 @@
+body {
+    background-color: firebrick;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading {
+    color: aliceblue;
+}
+
+.main {
+    text-align: center;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.one {
+    color:rosybrown;
+}
